@@ -18,6 +18,7 @@
       alt="linkedin logo"
     />
   </a>
+  
   <a href="https://kentvillalun.github.io/portfolio/" target="_blank">
     <img 
       src="https://img.shields.io/static/v1?message=Portfolio&logo=ko-fi&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge"
