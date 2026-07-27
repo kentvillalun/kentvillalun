@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Hi! I’m Kent, a 3rd-year BSIT student from Ilocos. I’m the class mayor and a graphic artist, experiences that shaped my leadership, teamwork, and creative problem-solving skills.  I am a student that builds things I'm proud of — things meant to be used, not just submitted.<br><br>My capstone project, EcoAid is a proof of that. A web-based system that lets people find recycling enjoyable by making it more convenient and intuitive. I'm working toward becoming not just a full stack developer, but a software engineer who builds things worth being proud of — with a team that feels the same way.</p>
+<p align="left">Hi! I’m Kent, a 4th-year BSIT student from Ilocos. I’m the class mayor and a graphic artist, experiences that shaped my leadership, teamwork, and creative problem-solving skills.  I am a student that builds things I'm proud of — things meant to be used, not just submitted.<br><br>My capstone project, EcoAid is a proof of that. A web-based system that lets people find recycling enjoyable by making it more convenient and intuitive. I'm working toward becoming not just a full stack developer, but a software engineer who builds things worth being proud of — with a team that feels the same way.</p>
 
 ###
 
