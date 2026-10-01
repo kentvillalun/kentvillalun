@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Kent Villalun</h1>
 
-<p align="left"><b>Full-Stack Developer</b> | React, Next.js, Node.js, PostgreSQL | Open to Internship &amp; Freelance Work</p>
+<!-- <p align="left"><b>Full-Stack Developer</b> | React, Next.js, Node.js, PostgreSQL | Open to Internship &amp; Freelance Work</p> -->
 
 <p align="left">
 I'm a graduating BS Information Technology student from Ilocos Sur, Philippines, building full-stack web apps that are meant to be used, not just submitted.
