@@ -39,14 +39,14 @@ A full-stack, barangay-level recyclable waste management PWA. Residents submit p
 - **Status:** development complete, preparing for capstone defense
 
 <div align="left">
-  <a href="LIVE-DEMO-LINK" target="_blank">
+  <a href="[LIVE-DEMO-LINK](https://ecoaid-app.vercel.app/login)" target="_blank">
     <img
       src="https://img.shields.io/static/v1?message=Live%20Demo&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge"
       height="32"
       alt="EcoAid live demo"
     />
   </a>
-  <a href="REPO-LINK" target="_blank">
+  <a href="[REPO-LINK](https://github.com/kentvillalun/ecoaid)" target="_blank">
     <img
       src="https://img.shields.io/static/v1?message=Repository&logo=github&label=&color=24292E&logoColor=white&labelColor=&style=for-the-badge"
       height="32"
@@ -64,14 +64,14 @@ A bill-splitting PWA for groups, deployed live on Vercel and maintained based on
 - **Stack:** Next.js (App Router), Supabase, Tailwind CSS, Framer Motion
 
 <div align="left">
-  <a href="LIVE-APP-LINK" target="_blank">
+  <a href="[LIVE-APP-LINK](https://splitpals-ph.vercel.app/)" target="_blank">
     <img
       src="https://img.shields.io/static/v1?message=Live%20App&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge"
       height="32"
       alt="SplitPals live app"
     />
   </a>
-  <a href="REPO-LINK" target="_blank">
+  <a href="[REPO-LINK](https://github.com/kentvillalun/splitpals)" target="_blank">
     <img
       src="https://img.shields.io/static/v1?message=Repository&logo=github&label=&color=24292E&logoColor=white&labelColor=&style=for-the-badge"
       height="32"
